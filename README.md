@@ -14,7 +14,7 @@ Atualmente, divido minha rotina entre estudos formais, projetos pessoais para **
 
 ## 🧠 Áreas de Interesse
 
-* Desenvolvimento Web(Full-Stack)
+* Desenvolvimento Web (Full-Stack)
 * Programação (lógica, estruturas e projetos práticos)
 * Filosofia
 * Teologia Cristã (Patrística, Bíblia, Cristologia)
